@@ -1,3 +1,3 @@
 Chrome extension to keep track of important links
 
-<img width="418" alt="image" src="https://github.com/user-attachments/assets/9c06dcbc-c2c1-43e1-aea2-49f33731dfa0" />
+<img width="484" alt="image" src="https://github.com/user-attachments/assets/66ee51a0-6410-4e1c-bb84-ddd0821be91f" />
