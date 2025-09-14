@@ -1,12 +1,17 @@
 {
-    "manifest_version": 3,
-    "version": "1.0",
-    "name": "Link tracker",
-    "action": {
-        "default_popup": "index.html",
-        "default_icon": "link.png"
-    },
-    "permissions": [
-        "tabs"
-    ]
+  "manifest_version": 3,
+  "name": "Link Tracker",
+  "version": "1.0",
+  "description": "Track and manage links for job applications",
+  "permissions": [
+    "storage",
+    "activeTab"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Link Tracker"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
 }
